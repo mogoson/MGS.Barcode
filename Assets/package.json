@@ -1,0 +1,7 @@
+{
+    "description": "Barcode generate and scan in Unity project.",
+    "displayName": "Barcode",
+    "name": "com.mgs.barcode",
+    "unity": "2021.3",
+    "version": "1.0.0"
+}

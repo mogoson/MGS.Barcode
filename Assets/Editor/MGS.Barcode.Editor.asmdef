@@ -1,0 +1,16 @@
+{
+    "name": "MGS.Barcode.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0cd8b411c1e84674eafd185e6e5f8ab5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
